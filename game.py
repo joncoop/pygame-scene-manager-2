@@ -41,6 +41,7 @@ class Game():
 
 # Let's do this!
 if __name__ == "__main__":
+    # Start game
     g = Game()
     g.run()
     pygame.quit()
